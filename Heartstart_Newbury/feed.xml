@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:0A51EE14-1CC2-4990-9FC9-22B1FE7D93C4</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-08-10T02:16:52+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:39EF9FE5-991C-4BE6-B5E0-CAE5A848C4C0</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">39EF9FE5-991C-4BE6-B5E0-CAE5A848C4C0</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2015-08-10T02:16:52.001+01:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:986DB35C-3462-48AE-83B9-D9B105E33B03</id>
+  <title>About the course</title>
+  <title xmlns="urn:iweb:">About the course</title>
+  <in-navbar xmlns="urn:iweb:">986DB35C-3462-48AE-83B9-D9B105E33B03</in-navbar>
+  <link rel="alternate" href="About_the_course.html"/>
+  <updated>2015-08-10T02:16:52.002+01:00</updated>
+  <content>About the course</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:65AC6EC6-75A2-4947-A344-E1C74740ECA0</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">65AC6EC6-75A2-4947-A344-E1C74740ECA0</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2015-08-10T02:16:52.003+01:00</updated>
+  <content>Publications</content>
+ </entry>
+</feed>
