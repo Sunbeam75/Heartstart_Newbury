@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:0A51EE14-1CC2-4990-9FC9-22B1FE7D93C4</id>
  <title>Page list Atom feed</title>
- <updated>2015-08-10T02:52:37+01:00</updated>
+ <updated>2015-08-10T03:06:22+01:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Welcome</title>
   <in-navbar xmlns="urn:iweb:">39EF9FE5-991C-4BE6-B5E0-CAE5A848C4C0</in-navbar>
   <link rel="alternate" href="Welcome.html"/>
-  <updated>2015-08-10T02:52:37.001+01:00</updated>
+  <updated>2015-08-10T03:06:22.001+01:00</updated>
   <content>Welcome</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">About the course</title>
   <in-navbar xmlns="urn:iweb:">986DB35C-3462-48AE-83B9-D9B105E33B03</in-navbar>
   <link rel="alternate" href="About_the_course.html"/>
-  <updated>2015-08-10T02:52:37.002+01:00</updated>
+  <updated>2015-08-10T03:06:22.002+01:00</updated>
   <content>About the course</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">65AC6EC6-75A2-4947-A344-E1C74740ECA0</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2015-08-10T02:52:37.003+01:00</updated>
+  <updated>2015-08-10T03:06:22.003+01:00</updated>
   <content>Publications</content>
  </entry>
 </feed>
