@@ -39,6 +39,11 @@
     font-weight: 700;
     line-height: 19px;
 }
+.style_External_400_73 {
+    bottom: 0px;
+    position: relative;
+    width: 400px;
+}
 .paragraph_style_1 {
     color: rgb(81, 81, 81);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -128,11 +133,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_400_278 {
-    bottom: 0px;
-    position: relative;
-    width: 400px;
-}
 .style_External_265_115 {
     position: relative;
 }
@@ -188,7 +188,7 @@
     position: absolute;
     width: 400px;
 }
-.Normal_External_400_278 {
+.Normal_External_400_73 {
     bottom: 0px;
     position: absolute;
     width: 400px;
