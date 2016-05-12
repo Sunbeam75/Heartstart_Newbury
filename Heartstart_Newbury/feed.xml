@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:0A51EE14-1CC2-4990-9FC9-22B1FE7D93C4</id>
  <title>Page list Atom feed</title>
- <updated>2016-05-12T19:48:53+01:00</updated>
+ <updated>2016-05-12T20:04:33+01:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Welcome</title>
   <in-navbar xmlns="urn:iweb:">39EF9FE5-991C-4BE6-B5E0-CAE5A848C4C0</in-navbar>
   <link rel="alternate" href="Welcome.html"/>
-  <updated>2016-05-12T19:48:53.001+01:00</updated>
+  <updated>2016-05-12T20:04:33.001+01:00</updated>
   <content>Welcome</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">About the course</title>
   <in-navbar xmlns="urn:iweb:">986DB35C-3462-48AE-83B9-D9B105E33B03</in-navbar>
   <link rel="alternate" href="About_the_course.html"/>
-  <updated>2016-05-12T19:48:53.002+01:00</updated>
+  <updated>2016-05-12T20:04:33.002+01:00</updated>
   <content>About the course</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Video Promo</title>
   <in-navbar xmlns="urn:iweb:">154EBC87-0727-4EE6-8E7A-401D3EC5BED2</in-navbar>
   <link rel="alternate" href="Video_Promo.html"/>
-  <updated>2016-05-12T19:48:53.003+01:00</updated>
+  <updated>2016-05-12T20:04:33.003+01:00</updated>
   <content>Video Promo</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Booking</title>
   <in-navbar xmlns="urn:iweb:">AAF9D9B5-507F-4BB4-9616-64B85B4D3A6C</in-navbar>
   <link rel="alternate" href="Booking.html"/>
-  <updated>2016-05-12T19:48:53.004+01:00</updated>
+  <updated>2016-05-12T20:04:33.004+01:00</updated>
   <content>Booking</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">65AC6EC6-75A2-4947-A344-E1C74740ECA0</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2016-05-12T19:48:53.005+01:00</updated>
+  <updated>2016-05-12T20:04:33.005+01:00</updated>
   <content>Publications</content>
  </entry>
 </feed>

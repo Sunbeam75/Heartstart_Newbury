@@ -72,18 +72,35 @@
 .style_2 {
     padding: 0px;
 }
-.style_External_464_53 {
-    bottom: 0px;
-    position: relative;
-    width: 464px;
-}
-.style_3 {
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 15px;
+.paragraph_style_2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
+    font-variant: normal;
     font-weight: 400;
-    line-height: 20px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_3 {
+    font-family: 'Noteworthy-Light', 'Noteworthy';
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 29px;
 }
 .style_SkipStroke_4 {
     background: transparent;
@@ -91,6 +108,11 @@
 }
 .style_External_264_127 {
     position: relative;
+}
+.style_External_503_132 {
+    bottom: 0px;
+    position: relative;
+    width: 503px;
 }
 .Body {
     color: rgb(81, 81, 81);
@@ -144,10 +166,10 @@
     position: absolute;
     width: 390px;
 }
-.Normal_External_464_53 {
+.Normal_External_503_132 {
     bottom: 0px;
     position: absolute;
-    width: 464px;
+    width: 503px;
 }
 .Quote {
     color: rgb(183, 97, 78);
