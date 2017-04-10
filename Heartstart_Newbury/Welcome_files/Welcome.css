@@ -217,6 +217,11 @@
 .style_External_265_115 {
     position: relative;
 }
+.style_External_669_67 {
+    bottom: 0px;
+    position: relative;
+    width: 669px;
+}
 .Body {
     color: rgb(81, 81, 81);
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -275,6 +280,11 @@
     width: 400px;
 }
 .Normal_External_669_185 {
+    bottom: 0px;
+    position: absolute;
+    width: 669px;
+}
+.Normal_External_669_67 {
     bottom: 0px;
     position: absolute;
     width: 669px;
