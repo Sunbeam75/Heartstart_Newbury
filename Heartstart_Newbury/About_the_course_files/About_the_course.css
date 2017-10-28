@@ -122,11 +122,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_656_46 {
-    bottom: 0px;
-    position: relative;
-    width: 656px;
-}
 .paragraph_style_5 {
     color: rgb(0, 0, 0);
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -168,6 +163,11 @@
 .style_SkipStroke_4 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_656_70 {
+    bottom: 0px;
+    position: relative;
+    width: 656px;
 }
 .style_External_390_167 {
     bottom: 0px;
@@ -263,7 +263,7 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_656_46 {
+.Normal_External_656_70 {
     bottom: 0px;
     position: absolute;
     width: 656px;
