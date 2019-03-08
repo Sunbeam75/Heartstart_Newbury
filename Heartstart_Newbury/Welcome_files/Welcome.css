@@ -69,11 +69,6 @@
 .style_3 {
     padding: 10px;
 }
-.style_External_669_185 {
-    bottom: 0px;
-    position: relative;
-    width: 669px;
-}
 .paragraph_style_2 {
     color: rgb(0, 0, 0);
     font-family: 'Helvetica', 'Arial', sans-serif;
@@ -201,6 +196,11 @@
 .style_External_265_115 {
     position: relative;
 }
+.style_External_669_241 {
+    bottom: 0px;
+    position: relative;
+    width: 669px;
+}
 .style_External_669_67 {
     bottom: 0px;
     position: relative;
@@ -263,12 +263,12 @@
     position: absolute;
     width: 400px;
 }
-.Normal_External_669_185 {
+.Normal_External_669_67 {
     bottom: 0px;
     position: absolute;
     width: 669px;
 }
-.Normal_External_669_67 {
+.Normal_External_669_241 {
     bottom: 0px;
     position: absolute;
     width: 669px;
